@@ -50,25 +50,25 @@ var contest = {
   titleRender: function () {
     if (this.state.step === 1) {
       this.elements.stepTitle.attr({
-        src: "/assets/images/sub/contest_step_01_title.png",
+        src: "./assets/images/sub/contest_step_01_title.png",
         alt: "STEP. 01 아이스크림 맛 선택하기",
       });
     }
     if (this.state.step === 2) {
       this.elements.stepTitle.attr({
-        src: "/assets/images/sub/contest_step_02_title.png",
+        src: "./assets/images/sub/contest_step_02_title.png",
         alt: "STEP. 02 리본 선택하기",
       });
     }
     if (this.state.step === 3) {
       this.elements.stepTitle.attr({
-        src: "/assets/images/sub/contest_step_03_title.png",
+        src: "./assets/images/sub/contest_step_03_title.png",
         alt: "STEP. 03 토핑 선택하기",
       });
     }
     if (this.state.step === 4) {
       this.elements.stepTitle.attr({
-        src: "/assets/images/sub/contest_step_04_title.png",
+        src: "./assets/images/sub/contest_step_04_title.png",
         alt: "STEP. 04 아이스크림 이름 정하기",
       });
     }
