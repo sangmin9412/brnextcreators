@@ -2,22 +2,22 @@
   font-family: "SB Aggro";
   font-style: normal;
   font-weight: 200;
-  src: url(/assets/fonts/SB_aggro_L.woff) format("woff"),
-    url(/assets/fonts/SB_aggro_L.ttf) format("turetype");
+  src: url(../fonts/SB_aggro_L.woff) format("woff"),
+    url(../fonts/SB_aggro_L.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "SB Aggro";
   font-style: normal;
   font-weight: 500;
-  src: url(/assets/fonts/SB_aggro_M.woff) format("woff"),
-    url(/assets/fonts/SB_aggro_M.ttf) format("turetype");
+  src: url(../fonts/SB_aggro_M.woff) format("woff"),
+    url(../fonts/SB_aggro_M.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "SB Aggro";
   font-style: normal;
   font-weight: 600;
-  src: url(/assets/fonts/SB_aggro_B.woff) format("woff"),
-    url(/assets/fonts/SB_aggro_B.ttf) format("turetype");
+  src: url(../fonts/SB_aggro_B.woff) format("woff"),
+    url(../fonts/SB_aggro_B.ttf) format("turetype");
 }

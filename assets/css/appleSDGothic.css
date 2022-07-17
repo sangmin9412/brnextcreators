@@ -2,54 +2,54 @@
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 100;
-  src: url(/assets/fonts/AppleSDGothicNeoT.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoT.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoT.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoT.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 200;
-  src: url(/assets/fonts/AppleSDGothicNeoL.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoL.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoL.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoL.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 250;
-  src: url(/assets/fonts/AppleSDGothicNeoUL.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoUL.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoUL.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoUL.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 300;
-  src: url(/assets/fonts/AppleSDGothicNeoR.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoR.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoR.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoR.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 500;
-  src: url(/assets/fonts/AppleSDGothicNeoM.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoM.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoM.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoM.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 600;
-  src: url(/assets/fonts/AppleSDGothicNeoB.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoB.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoB.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoB.ttf) format("turetype");
 }
 
 @font-face {
   font-family: "AppleSDGothicNeo";
   font-style: normal;
   font-weight: 700;
-  src: url(/assets/fonts/AppleSDGothicNeoEB.woff) format("woff"),
-    url(/assets/fonts/AppleSDGothicNeoEB.ttf) format("turetype");
+  src: url(../fonts/AppleSDGothicNeoEB.woff) format("woff"),
+    url(../fonts/AppleSDGothicNeoEB.ttf) format("turetype");
 }

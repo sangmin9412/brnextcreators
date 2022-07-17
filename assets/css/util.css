@@ -40,31 +40,31 @@ small.small {
   pointer-events: none;
 } */
 .btn-pack.type-round-purple {
-  background-image: url("/assets/images/common/btn_bg_round_purple.png");
+  background-image: url("../images/common/btn_bg_round_purple.png");
   background-repeat: no-repeat;
 }
 
 .btn-pack.type-round-purple.large {
-  background-image: url("/assets/images/common/btn_bg_round_purple_large.png");
+  background-image: url("../images/common/btn_bg_round_purple_large.png");
   background-repeat: no-repeat;
 }
 .btn-pack.type-round-purple.slarge {
-  background-image: url("/assets/images/common/btn_bg_round_purple_slarge.png");
+  background-image: url("../images/common/btn_bg_round_purple_slarge.png");
   background-repeat: no-repeat;
 }
 
 .btn-pack.type-round-purple.medium {
-  background-image: url("/assets/images/common/btn_bg_round_purple_medium.png");
+  background-image: url("../images/common/btn_bg_round_purple_medium.png");
   background-repeat: no-repeat;
 }
 
 .btn-pack.type-round-purple.small {
-  background-image: url("/assets/images/common/btn_bg_round_purple_small.png");
+  background-image: url("../images/common/btn_bg_round_purple_small.png");
   background-repeat: no-repeat;
 }
 
 .btn-pack.type-round-purple.small2 {
-  background-image: url("/assets/images/common/btn_bg_round_purple_small_2.png");
+  background-image: url("../images/common/btn_bg_round_purple_small_2.png");
   background-repeat: no-repeat;
 }
 /* .btn-pack.type-round-pink {
@@ -170,7 +170,7 @@ small.small {
   line-height: 1;
   color: #fff;
   /* background-color: #f93571; */
-  background-image: url("/assets/images/common/pink_title_list_bg.png");
+  background-image: url("../images/common/pink_title_list_bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 100px;
@@ -197,7 +197,7 @@ small.small {
   line-height: 1;
   color: #ff6397;
   /* background-color: #f93571; */
-  background-image: url("/assets/images/common/pink_2_title_list_bg.png");
+  background-image: url("../images/common/pink_2_title_list_bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 100px;
@@ -205,7 +205,7 @@ small.small {
 .pink-title-list-2 > .list > .item > .title.small {
   min-width: 15.6rem;
   height: 4.2rem;
-  background-image: url("/assets/images/common/pink_2_title_list_bg_small.png");
+  background-image: url("../images/common/pink_2_title_list_bg_small.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -343,7 +343,7 @@ small.small {
   top: 2.2rem;
   width: 11rem;
   height: 11rem;
-  background-image: url("/assets/images/common/icon_modal_close.png");
+  background-image: url("../images/common/icon_modal_close.png");
   background-position: 50% 50%;
   background-size: 5.9rem;
   background-repeat: no-repeat;
@@ -397,7 +397,7 @@ small.small {
 .modal-wrap[data-modal="submit_info"] .modal-body {
   position: relative;
   min-height: 71.3rem;
-  /* background-image: url("/assets/images/sub/contest_modal_frame_height_713.png");
+  /* background-image: url("../images/sub/contest_modal_frame_height_713.png");
   background-size: 100%;
   background-repeat: no-repeat; */
   background: rgb(84, 93, 210);
@@ -425,9 +425,9 @@ small.small {
   top: 0;
   right: 0;
   bottom: 0;
-  background: url("/assets/images/sub/contest_modal_frame_line_top.png") 0
-      1.5rem no-repeat,
-    url("/assets/images/sub/contest_modal_frame_line_bottom.png") 0
+  background: url("../images/sub/contest_modal_frame_line_top.png") 0 1.5rem
+      no-repeat,
+    url("../images/sub/contest_modal_frame_line_bottom.png") 0
       calc(100% - 1.5rem) no-repeat;
   background-size: 100%;
   pointer-events: none;
@@ -449,7 +449,7 @@ small.small {
   top: 10rem;
   right: 0;
   bottom: 10rem;
-  background: url("/assets/images/sub/contest_modal_frame_line_middle.png") 0 0
+  background: url("../images/sub/contest_modal_frame_line_middle.png") 0 0
     repeat-y;
   background-size: 100%;
   pointer-events: none;
@@ -554,10 +554,10 @@ small.small {
 }
 
 .modal-wrap[data-modal="close_modal"] .modal-content {
-	padding: 0;
+  padding: 0;
 }
 .modal-wrap[data-modal="close_modal"] .modal-btn-close {
-	display: none;
+  display: none;
 }
 
 @media screen and (min-width: 721px) {
